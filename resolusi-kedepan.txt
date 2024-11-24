@@ -2,5 +2,5 @@ resolusi kedepan
 -konsiten membuat target project 2x dalam seminggu
 -membuat latihan html
 membuat latihan css
-membuat latihan javascript
 latihan membuat aplikasi kasir
+membuat vlog
